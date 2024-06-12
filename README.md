@@ -16,11 +16,11 @@ https://www.erdcloud.com/d/hv7GP2TFTsyHZ6Y8u
 - DTO 작성
 
 ## 해야할것
-- CI/CD 환경구축
-Github
-Jenkins
-Github Action
-SonarQube
+- CI/CD 환경구축<br/>
+Github<br/>
+Jenkins<br/>
+Github Action<br/>
+SonarQube<br/>
 참고 : https://github.com/nhnacademy-bootcamp/project-ci-cd
 
 - 가비아 도메인 구매
