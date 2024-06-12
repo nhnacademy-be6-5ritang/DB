@@ -13,3 +13,12 @@ https://www.erdcloud.com/d/RfBCXWo44DvoKMDaG
 - 가비아 도메인 구매
 - 프론트 서버 이중화
 - 프론트 서버 SSL 설정
+
+참고사항
+- https://github.com/nhnacademy-be5-staff99
+- https://www.yes24.com/main/default.aspx
+
+협업도구
+- 노션
+- https://chaesc1.atlassian.net/jira/software/projects/KAN/boards/1
+- https://docs.google.com/spreadsheets/d/1rOP2zDVcOvAwYSLNcv7iRtlNmu9qOoDafgkiLQhkJ4U/edit?gid=0#gid=0
