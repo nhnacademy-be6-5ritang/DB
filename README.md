@@ -38,23 +38,6 @@ SSL 적용시 다음 사항을 고려 합니다.<br/>
 L4에 SSL 인증서를 직접 등록하는 방법 ( L4 -> front server)<br/>
 Nginx를 통해서 SSL인증서를 적용하고 L4를 이용해서 이중화 하는 방법 ( Nginx -> L4 -> front server)<br/>
 
-## 개발환경
-### mysql
-
-- host: 133.186.241.167<br/>
-- port: 3306<br/>
-- id: 5ritang<br/>
-- pwd: j2EqdFa0rt.tX]WK<br/>
-
-따로 test용, 배포 및 개발용으로 나누고 싶으시면 말씀해주세요.<br/>
-
-### Redis
-
-- ip : 133.186.241.167<br/>
-- port : 6379<br/>
-- pwd : *N2vya7H@muDTwdNMR!<br/>
-- db-range : 21 ~ 25<br/>
-
 ## 참고사항
 - https://github.com/nhnacademy-be5-staff99
 - https://www.yes24.com/main/default.aspx
