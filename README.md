@@ -23,20 +23,20 @@ Github Action<br/>
 SonarQube<br/>
 참고 : https://github.com/nhnacademy-bootcamp/project-ci-cd
 
-- 가비아 도메인 구매
-https://domain.gabia.com/
+- 가비아 도메인 구매<br/>
+https://domain.gabia.com/<br/>
 .shop
 
-- 프론트 서버 이중화
-L4를 이용한 이중화 (아래 링크 참조)
-https://nhnacademy.dooray.com/share/pages/g9oke2vgTlO4K82kOhkiIQ
-https://nhnacademy.dooray.com/share/pages/dxGLJhTRRpSd0rA1w16Kjw
+- 프론트 서버 이중화<br/>
+L4를 이용한 이중화 (아래 링크 참조)<br/>
+https://nhnacademy.dooray.com/share/pages/g9oke2vgTlO4K82kOhkiIQ<br/>
+https://nhnacademy.dooray.com/share/pages/dxGLJhTRRpSd0rA1w16Kjw<br/>
 
-- 프론트 서버 SSL 설정
-https://www.rosehosting.com/blog/how-to-secure-nginx-with-lets-encrypt-on-ubuntu-20-04/
-SSL 적용시 다음 사항을 고려 합니다.
-L4에 SSL 인증서를 직접 등록하는 방법 ( L4 -> front server)
-Nginx를 통해서 SSL인증서를 적용하고 L4를 이용해서 이중화 하는 방법 ( Nginx -> L4 -> front server)
+- 프론트 서버 SSL 설정<br/>
+https://www.rosehosting.com/blog/how-to-secure-nginx-with-lets-encrypt-on-ubuntu-20-04/<br/>
+SSL 적용시 다음 사항을 고려 합니다.<br/>
+L4에 SSL 인증서를 직접 등록하는 방법 ( L4 -> front server)<br/>
+Nginx를 통해서 SSL인증서를 적용하고 L4를 이용해서 이중화 하는 방법 ( Nginx -> L4 -> front server)<br/>
 
 ## 참고사항
 - https://github.com/nhnacademy-be5-staff99
