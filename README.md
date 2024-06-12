@@ -14,6 +14,9 @@ https://www.erdcloud.com/d/RfBCXWo44DvoKMDaG
 - 프론트 서버 이중화
 - 프론트 서버 SSL 설정
 
+요구사항
+- https://github.com/nhnacademy-bootcamp/project-bookstore/blob/main/docs/01.%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD/01.%EB%8F%84%EC%84%9C.adoc
+
 참고사항
 - https://github.com/nhnacademy-be5-staff99
 - https://www.yes24.com/main/default.aspx
