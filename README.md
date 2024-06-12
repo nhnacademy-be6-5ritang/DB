@@ -7,6 +7,7 @@ https://www.erdcloud.com/d/RfBCXWo44DvoKMDaG
 
 24.06.12.수
 - 요구사항 정리 + API 문서 설계 작업
+- DTO 작성
 
 해야할것
 - CI/CD 환경구축
