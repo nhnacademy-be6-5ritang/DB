@@ -1,6 +1,6 @@
 # DB
 
-https://www.erdcloud.com/d/RfBCXWo44DvoKMDaG
+https://www.erdcloud.com/d/hv7GP2TFTsyHZ6Y8u
 
 24.06.11.화
 - ERD 작성 + 테이블 설계
